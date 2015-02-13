@@ -1,0 +1,5 @@
+C:\Users\1400803\Desktop\Kolikko\Kolikko3000\Kolikko3000\bin\Release\Kolikko3000.exe
+C:\Users\1400803\Desktop\Kolikko\Kolikko3000\Kolikko3000\bin\Release\Kolikko3000.pdb
+C:\Users\1400803\Desktop\Kolikko\Kolikko3000\Kolikko3000\obj\x86\Release\Kolikko3000.exe
+C:\Users\1400803\Desktop\Kolikko\Kolikko3000\Kolikko3000\obj\x86\Release\Kolikko3000.pdb
+C:\Users\1400803\Desktop\Kolikko\Kolikko3000\Kolikko3000\obj\x86\Release\Kolikko3000.csprojResolveAssemblyReference.cache
